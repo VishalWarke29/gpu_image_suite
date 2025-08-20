@@ -1,0 +1,3 @@
+/content/gpu-image-suite/build/CMakeFiles/gpu_image_suite.dir
+/content/gpu-image-suite/build/CMakeFiles/edit_cache.dir
+/content/gpu-image-suite/build/CMakeFiles/rebuild_cache.dir
